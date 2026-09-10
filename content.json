@@ -205,5 +205,19 @@
     ],
     "meta": "Honkai: Star Rail • MMD",
     "new": true
+  },
+  {
+    "id": "016",
+    "title": "Testing Nomor 3",
+    "preview": "https://link-gambar.jpg",
+    "download": "https://link-download.zip",
+    "category": "Animation",
+    "tags": [
+      "sparkle",
+      "hsr",
+      "mmd"
+    ],
+    "meta": "Honkai: Star Rail • MMD",
+    "new": true
   }
 ]
