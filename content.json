@@ -5,7 +5,11 @@
     "preview": "https://placehold.co/600x800?text=Sparkle+MMD",
     "download": "https://example.com/download/001",
     "category": "Animation",
-    "tags": ["sparkle", "honkai star rail", "mmd"],
+    "tags": [
+      "sparkle",
+      "honkai star rail",
+      "mmd"
+    ],
     "meta": "Honkai: Star Rail • MMD",
     "new": true
   },
@@ -15,7 +19,10 @@
     "preview": "https://placehold.co/600x800?text=Genshin+Fanart",
     "download": "https://example.com/download/002",
     "category": "Fanart",
-    "tags": ["genshin", "fanart"],
+    "tags": [
+      "genshin",
+      "fanart"
+    ],
     "meta": "Genshin Impact • Fanart",
     "new": true
   },
@@ -25,7 +32,11 @@
     "preview": "https://placehold.co/600x800?text=Hu+Tao",
     "download": "https://example.com/download/003",
     "category": "Animation",
-    "tags": ["hu tao", "genshin", "animation"],
+    "tags": [
+      "hu tao",
+      "genshin",
+      "animation"
+    ],
     "meta": "Genshin Impact • Animation",
     "new": false
   },
@@ -35,7 +46,11 @@
     "preview": "https://placehold.co/600x800?text=Acheron",
     "download": "https://example.com/download/004",
     "category": "Fanart",
-    "tags": ["acheron", "honkai star rail", "fanart"],
+    "tags": [
+      "acheron",
+      "honkai star rail",
+      "fanart"
+    ],
     "meta": "Honkai: Star Rail • Fanart",
     "new": false
   },
@@ -45,7 +60,10 @@
     "preview": "https://placehold.co/600x800?text=Sparkle+Animation",
     "download": "https://example.com/download/005",
     "category": "Animation",
-    "tags": ["sparkle", "animation"],
+    "tags": [
+      "sparkle",
+      "animation"
+    ],
     "meta": "Honkai: Star Rail • Animation",
     "new": false
   },
@@ -55,7 +73,11 @@
     "preview": "https://placehold.co/600x800?text=Furina",
     "download": "https://example.com/download/006",
     "category": "Fanart",
-    "tags": ["furina", "genshin", "fanart"],
+    "tags": [
+      "furina",
+      "genshin",
+      "fanart"
+    ],
     "meta": "Genshin Impact • Fanart",
     "new": false
   },
@@ -65,7 +87,11 @@
     "preview": "https://placehold.co/600x800?text=March+7th",
     "download": "https://example.com/download/007",
     "category": "Animation",
-    "tags": ["march 7th", "mmd", "animation"],
+    "tags": [
+      "march 7th",
+      "mmd",
+      "animation"
+    ],
     "meta": "Honkai: Star Rail • MMD",
     "new": false
   },
@@ -75,7 +101,11 @@
     "preview": "https://placehold.co/600x800?text=Raiden",
     "download": "https://example.com/download/008",
     "category": "Fanart",
-    "tags": ["raiden", "genshin", "fanart"],
+    "tags": [
+      "raiden",
+      "genshin",
+      "fanart"
+    ],
     "meta": "Genshin Impact • Fanart",
     "new": false
   },
@@ -85,7 +115,10 @@
     "preview": "https://placehold.co/600x800?text=Elysia",
     "download": "https://example.com/download/009",
     "category": "Animation",
-    "tags": ["elysia", "animation"],
+    "tags": [
+      "elysia",
+      "animation"
+    ],
     "meta": "Honkai Impact • Animation",
     "new": false
   },
@@ -95,7 +128,11 @@
     "preview": "https://placehold.co/600x800?text=Navia",
     "download": "https://example.com/download/010",
     "category": "Fanart",
-    "tags": ["navia", "genshin", "fanart"],
+    "tags": [
+      "navia",
+      "genshin",
+      "fanart"
+    ],
     "meta": "Genshin Impact • Fanart",
     "new": false
   },
@@ -105,7 +142,11 @@
     "preview": "https://placehold.co/600x800?text=Robin",
     "download": "https://example.com/download/011",
     "category": "Animation",
-    "tags": ["robin", "mmd", "animation"],
+    "tags": [
+      "robin",
+      "mmd",
+      "animation"
+    ],
     "meta": "Honkai: Star Rail • MMD",
     "new": false
   },
@@ -115,8 +156,40 @@
     "preview": "https://placehold.co/600x800?text=Yae+Miko",
     "download": "https://example.com/download/012",
     "category": "Fanart",
-    "tags": ["yae miko", "genshin", "fanart"],
+    "tags": [
+      "yae miko",
+      "genshin",
+      "fanart"
+    ],
     "meta": "Genshin Impact • Fanart",
     "new": false
+  },
+  {
+    "id": "013",
+    "title": "Sparkle MMD",
+    "preview": "https://link-gambar.jpg",
+    "download": "https://link-download.zip",
+    "category": "Animation",
+    "tags": [
+      "sparkle",
+      "hsr",
+      "mmd"
+    ],
+    "meta": "Honkai: Star Rail • MMD",
+    "new": true
+  },
+  {
+    "id": "014",
+    "title": "Testing MMD",
+    "preview": "https://link-gambar.jpg",
+    "download": "https://link-download.zip",
+    "category": "Animation",
+    "tags": [
+      "sparkle",
+      "hsr",
+      "mmd"
+    ],
+    "meta": "Honkai: Star Rail • MMD",
+    "new": true
   }
 ]
