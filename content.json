@@ -1,18 +1,20 @@
 [
-  {
-    "id": "001",
-    "title": "Sparkle MMD",
-    "preview": "https://drive.google.com/file/d/1C0DE7iD6WqL0sx09nc7DOJ4ERizYY_Po/view?usp=drivesdk",
-    "download": "https://example.com/download/001",
-    "category": "Animation",
-    "tags": [
-      "sparkle",
-      "honkai star rail",
-      "mmd"
-    ],
-    "meta": "Honkai: Star Rail • MMD",
-    "new": true
-  },
+{
+  "id": "001",
+  "title": "Sparkle MMD",
+  "preview": "https://drive.google.com/file/d/1JkdH6Hc6a-rwANIZAw1ag5HSa4YSIhKk/view?usp=drivesdk",
+  "images": [
+    "https://drive.google.com/file/d/1JkdH6Hc6a-rwANIZAw1ag5HSa4YSIhKk/view?usp=drivesdk",
+    "https://drive.google.com/file/d/1JkdH6Hc6a-rwANIZAw1ag5HSa4YSIhKk/view?usp=drivesdk",
+    "https://drive.google.com/file/d/1JkdH6Hc6a-rwANIZAw1ag5HSa4YSIhKk/view?usp=drivesdk"
+  ],
+  "download": "https://example.com/download/001",
+  "category": "Animation",
+  "tags": [
+    "sparkle",
+    "honkai star rail",
+    "mmd"
+},
   {
     "id": "002",
     "title": "Genshin Fanart",
